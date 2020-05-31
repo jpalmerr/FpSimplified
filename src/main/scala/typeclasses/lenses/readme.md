@@ -1,0 +1,1 @@
+A Lens is an abstraction from functional programming which helps to deal with a problem of updating complex immutable nested objects.
